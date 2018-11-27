@@ -1,6 +1,7 @@
 {
 	"name": "grifart/comparable-polyfill",
 	"type": "library",
+	"license": "MIT",
 	"description": "Provides interface of Comparable RFC.",
 	"require": {
 		"php": ">= 7.0.0"
